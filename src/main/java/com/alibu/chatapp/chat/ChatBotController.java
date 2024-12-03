@@ -1,4 +1,4 @@
-//a comment included to test the pipeline
+
 package com.alibu.chatapp.chat;
 
 import org.springframework.beans.factory.annotation.Autowired;
